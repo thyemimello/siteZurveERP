@@ -1,0 +1,7 @@
+.chrome-test/
+.chrome-test2/
+preview.png
+.chrome-*/
+*-preview.png
+node_modules/
+dist/
